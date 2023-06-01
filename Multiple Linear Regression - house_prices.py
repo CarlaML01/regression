@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ### Multiple Linear Regression Introduction
+# ### Multiple Linear Regression with house prices
 # 
-# In this notebook (and following quizzes), you will be creating a few simple linear regression models, as well as a multiple linear regression model, to predict home value.
+# In this notebook, I have created a few simple linear regression models, as well as a multiple linear regression model, to predict home value.
 # 
 # Let's get started by importing the necessary libraries and reading in the data you will be using.
 
